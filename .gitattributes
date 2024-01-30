@@ -1,1 +1,2 @@
 api/data/*.csv filter=lfs diff=lfs merge=lfs -text
+api/data/information.csv filter=lfs diff=lfs merge=lfs -text
